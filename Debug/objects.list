@@ -1,0 +1,8 @@
+"./Ext_Drivers/Src/ADC.o"
+"./Ext_Drivers/Src/ring_buffer.o"
+"./Ext_Drivers/Src/systick.o"
+"./Ext_Drivers/Src/telemetry.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407vgtx.o"

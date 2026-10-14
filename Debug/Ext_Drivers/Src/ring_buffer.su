@@ -1,0 +1,12 @@
+../Ext_Drivers/Src/ring_buffer.c:13:7:float_to_q16	24	static
+../Ext_Drivers/Src/ring_buffer.c:20:7:q16_to_float	24	static
+../Ext_Drivers/Src/ring_buffer.c:27:7:int_to_q16	16	static
+../Ext_Drivers/Src/ring_buffer.c:33:9:q16_to_int	16	static
+../Ext_Drivers/Src/ring_buffer.c:41:7:q16_add	16	static
+../Ext_Drivers/Src/ring_buffer.c:47:7:q16_sub	16	static
+../Ext_Drivers/Src/ring_buffer.c:53:7:q16_mul	40	static
+../Ext_Drivers/Src/ring_buffer.c:60:7:q16_div	40	static
+../Ext_Drivers/Src/ring_buffer.c:66:7:q16_ema_filter	32	static
+../Ext_Drivers/Src/ring_buffer.c:72:6:ring_buffer_init	16	static
+../Ext_Drivers/Src/ring_buffer.c:79:6:ring_buffer_push	16	static,ignoring_inline_asm
+../Ext_Drivers/Src/ring_buffer.c:91:6:ring_buffer_pop	16	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+../Ext_Drivers/Src/systick.c:15:6:systick_init_ms	1
+../Ext_Drivers/Src/systick.c:27:10:get_system_ticks	1
+../Ext_Drivers/Src/systick.c:32:6:systick_delay	2
+../Ext_Drivers/Src/systick.c:42:6:SysTick_Handler	1

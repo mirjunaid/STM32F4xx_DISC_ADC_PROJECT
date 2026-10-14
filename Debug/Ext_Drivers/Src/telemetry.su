@@ -1,0 +1,3 @@
+../Ext_Drivers/Src/telemetry.c:21:6:telemetry_init	16	static
+../Ext_Drivers/Src/telemetry.c:30:6:telemetry_feed_sample	32	static
+../Ext_Drivers/Src/telemetry.c:36:6:telemetry_process	24	static
