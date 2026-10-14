@@ -1,8 +1,8 @@
 # Bare-Metal STM32F407 Data Acquisition & Telemetry Pipeline
 
-A modular, high-reliability embedded firmware pipeline developed from scratch in bare-metal C for the **STM32F407G-DISC1** board (ARM Cortex-M4)[span_0](start_span)[span_0](end_span)[span_1](start_span)[span_1](end_span). 
+A modular, high-reliability embedded firmware pipeline developed from scratch in bare-metal C for the **STM32F407G-DISC1** board (ARM Cortex-M4) 
 
-This project interfaces with an analog **KY-013 NTC Temperature Sensor** via direct hardware register manipulation—completely bypassing vendor HAL and LL libraries[span_2](start_span)[span_2](end_span). It implements non-blocking hardware timekeeping, time-windowed moving average downsampling, and an atomic single-producer single-consumer (SPSC) ring buffer[span_3](start_span)[span_3](end_span).
+This project interfaces with an analog **KY-013 NTC Temperature Sensor** via direct hardware register manipulation—completely bypassing vendor HAL and LL libraries. It implements non-blocking hardware timekeeping, time-windowed moving average downsampling, and an atomic single-producer single-consumer (SPSC) ring buffer.
 
 ---
 
